@@ -1,6 +1,6 @@
-# j8583-iso-server
+# j8583-iso-client
 
-Iso8583 Server using j8583 and non-blocking netty.
+Iso8583 Client using j8583 and non-blocking netty.
 
 ## How to Build
 
